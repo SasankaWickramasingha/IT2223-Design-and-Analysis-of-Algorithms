@@ -1,0 +1,7 @@
+s = [1 2];
+t = [2 3];
+i = [3 4];
+j = [];
+G = graph(s, t);
+plot(G);
+title('Undirected Graph');
